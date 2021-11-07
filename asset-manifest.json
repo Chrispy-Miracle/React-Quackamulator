@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/React-Quackamulator/static/css/main.42bdc95a.chunk.css",
+    "main.js": "/React-Quackamulator/static/js/main.06fafc1b.chunk.js",
+    "main.js.map": "/React-Quackamulator/static/js/main.06fafc1b.chunk.js.map",
+    "runtime-main.js": "/React-Quackamulator/static/js/runtime-main.5dcabc26.js",
+    "runtime-main.js.map": "/React-Quackamulator/static/js/runtime-main.5dcabc26.js.map",
+    "static/js/2.9c001605.chunk.js": "/React-Quackamulator/static/js/2.9c001605.chunk.js",
+    "static/js/2.9c001605.chunk.js.map": "/React-Quackamulator/static/js/2.9c001605.chunk.js.map",
+    "static/js/3.554c5918.chunk.js": "/React-Quackamulator/static/js/3.554c5918.chunk.js",
+    "static/js/3.554c5918.chunk.js.map": "/React-Quackamulator/static/js/3.554c5918.chunk.js.map",
+    "index.html": "/React-Quackamulator/index.html",
+    "static/css/main.42bdc95a.chunk.css.map": "/React-Quackamulator/static/css/main.42bdc95a.chunk.css.map",
+    "static/js/2.9c001605.chunk.js.LICENSE.txt": "/React-Quackamulator/static/js/2.9c001605.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5dcabc26.js",
+    "static/js/2.9c001605.chunk.js",
+    "static/css/main.42bdc95a.chunk.css",
+    "static/js/main.06fafc1b.chunk.js"
+  ]
+}
